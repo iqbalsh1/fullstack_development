@@ -6,6 +6,3 @@ resolves into a beautiful, space house"
 “Civil war strikes the galaxy, which is ruled by May Snozcumber, a noisy
 zombie capable of theft and even abduction. Terrified, a beautiful alien
 known as Anna flees the Empire, with her protector, Jane.”
-9. Repeat the same steps from 5 to 7 to commit this new paragraph
-Publishing to GitHub
-16. Push the changes to GitHub by clicking on the "Publish Branch"
